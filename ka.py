@@ -53,7 +53,6 @@ def generate_ascii_art(text):
 # Main function
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-    
         text = ' '.join(sys.argv[1:])
     else:
         text = "HELLO WORLD"  # Default text
