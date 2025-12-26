@@ -1,4 +1,1 @@
-# Sound
-this is my first repo
-<br>
-404 not found
+  git clone https://github.com/mana404/Sound.git
